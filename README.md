@@ -4,7 +4,7 @@ A responsive task management dashboard built with React and Vite. Users can crea
 
 ## Live Demo
 
-https://YOUR-VERCEL-LINK.vercel.app
+https://focusboard-ecru.vercel.app
 
 ## GitHub Repository
 
